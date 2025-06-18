@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70e2ff,100:ffc2e2&height=180&text=Hello, I'm Yujin&animation=&fontColor=ffffff&fontSize=50&fontAlign=70" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0%3A70e2ff%2C100%3Affc2e2&height=180&text=Hello%2C%20I'm%20Yujin&animation=&fontColor=ffffff&fontSize=50&fontAlign=70)
 
 ## ✉️ Contact
 - Email : yueonq@gmail.com
